@@ -1,16 +1,3 @@
-/*
- * scrolling.c
- *
- * Created: 10-05-2019 10:39:39
- * Author : Mahima
- */ 
-
-/*
- * GccApplication2.c
- *
- * Created: 10-05-2019 09:39:51
- * Author : Mahima
- */ 
 #ifndef F_CPU
 #define F_CPU 1600000UL
 #endif
