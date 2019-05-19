@@ -1,10 +1,3 @@
-/*
- * LDR1.c
- *
- * Created: 14-05-2019 14:43:22
- * Author : Mahima
- */ 
-
 #include <avr/io.h>
 #define F_CPU 16000000
 #include <util/delay.h>
